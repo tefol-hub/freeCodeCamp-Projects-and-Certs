@@ -1,0 +1,60 @@
+body {
+  background-color: #f4f4f4;
+  font-family: arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  display: inline-block;
+  margin-top: 40px;
+  background: linear-gradient(
+    to right,
+    #FF0000,
+    rgb(200, 120, 0),
+    yellow,
+    hsl(120, 80%, 50%),
+    rgb(10, 120, 255)
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #4facfe;
+}
+
+.color-grid {
+  text-align: center;
+}
+
+.color-box {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin: 20px;
+  border-radius: 10px;
+  border: none;
+}
+
+.color1 {
+  background-color: #FF0000;
+  box-shadow: 0 0 15px 0 #FF0000;
+}
+
+.color2 {
+  background-color: rgb(200, 120, 0);
+  box-shadow: 0 0 15px 0 rgb(200, 120, 0);
+}
+
+.color3 {
+  background-color: yellow;
+  box-shadow: 0 0 15px 0 yellow;
+}
+
+.color4 {
+  background-color: hsl(120, 80%, 50%);
+  box-shadow: 0 0 15px 0 hsl(120, 80%, 50%);
+}
+
+.color5 {
+  background-color: rgb(10, 120, 255);
+  box-shadow: 0 0 15px 0 rgb(10, 120, 255);
+}
