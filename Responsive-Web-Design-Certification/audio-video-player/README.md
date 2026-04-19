@@ -2,6 +2,8 @@
 
 A simple webpage demonstrating how to embed and control audio and video content using HTML5.
 
+[Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/audio-video-player/)
+
 ## 📸 Preview
 ![Project Screenshot](./screenshots/screenshot.png)
 

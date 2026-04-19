@@ -19,6 +19,7 @@ These projects focus on CSS Flexbox, Grid, Typography, and Responsive Design pri
 * [Movie Review Page](./Responsive-Web-Design-Certification/movie-review-page) - Content-heavy page structure.
 * [Stylized To-Do List](./Responsive-Web-Design-Certification/stylized-to-do-list) - UI/UX design for productivity tools.
 * [Travel Agency Page](./Responsive-Web-Design-Certification/travel-agency-page) - Full-width landing page design.
+* [Customer Complaint Form](./Responsive-Web-Design-Certification/customer-complaint-form) - Using modern CSS `:has()` for conditional logic.
 * 
 ## 🛠️ Tech Stack
 * HTML5, CSS3

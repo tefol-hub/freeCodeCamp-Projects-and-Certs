@@ -2,6 +2,8 @@
 
 A webpage showcasing multiple events with structured layout and sections.
 
+[Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/lab-event-hub/)
+
 ## 📸 Preview
 ![Project Screenshot](./screenshots/screenshot1.png)
 

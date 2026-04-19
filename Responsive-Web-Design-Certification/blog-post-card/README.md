@@ -2,6 +2,8 @@
 
 A styled blog card component displaying an article preview with image, title, and description.
 
+[Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/blog-post-card/)
+
 ## 📸 Preview
 ![Project Screenshot](./screenshots/screenshot.png)
 

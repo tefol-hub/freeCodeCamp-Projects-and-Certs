@@ -2,6 +2,8 @@
 
 A visually enhanced to-do list layout.
 
+[Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/stylized-to-do-list/)
+
 ## 📸 Preview
 ![Project Screenshot](./screenshots/screenshot.png)
 

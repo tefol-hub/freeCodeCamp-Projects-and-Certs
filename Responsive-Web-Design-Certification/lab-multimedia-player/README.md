@@ -2,6 +2,8 @@
 
 A multimedia player page integrating audio and video content.
 
+[Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/lab-multimedia-player/)
+
 ## 📸 Preview
 ![Project Screenshot](./screenshots/screenshot.png)
 
