@@ -7,20 +7,20 @@ This repository is a comprehensive collection of my web development journey thro
 ### 1. Responsive Web Design
 These projects focus on CSS Flexbox, Grid, Typography, and Responsive Design principles.
 
-* [Audio & Video Player](./Responsive-Web-Design-Certification/audio-video-player) - Practicing HTML5 media tags.
-* [Blog Post Card](./Responsive-Web-Design-Certification/blog-post-card) - Card layout using CSS Flexbox.
-* [Book Catalog Table](./Responsive-Web-Design-Certification/book-catalog-table) - Structured data display using HTML tables.
-* [Business Card](./Responsive-Web-Design-Certification/business-card) - Personal branding using CSS styling.
-* [Checkout Page](./Responsive-Web-Design-Certification/checkout-page) - Form validation and layout practice.
-* [Event Flyer Page](./Responsive-Web-Design-Certification/event-flyer-page) - Visual design and typography.
-* [Five Rainbow Color Boxes](./Responsive-Web-Design-Certification/five-rainbow-color-boxes) - Mastery of CSS color systems (Hex, RGB, HSL).
-* [Lab Event Hub](./Responsive-Web-Design-Certification/lab-event-hub) - Interactive layout for event management.
-* [Lab Multimedia Player](./Responsive-Web-Design-Certification/lab-multimedia-player) - Custom styled media controls.
-* [Movie Review Page](./Responsive-Web-Design-Certification/movie-review-page) - Content-heavy page structure.
-* [Stylized To-Do List](./Responsive-Web-Design-Certification/stylized-to-do-list) - UI/UX design for productivity tools.
-* [Travel Agency Page](./Responsive-Web-Design-Certification/travel-agency-page) - Full-width landing page design.
-* [Customer Complaint Form](./Responsive-Web-Design-Certification/customer-complaint-form) - Using modern CSS `:has()` for conditional logic.
-* 
+* [Audio & Video Player](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/audio-video-player/) - Practicing HTML5 media tags.
+* [Blog Post Card](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/blog-post-card/) - Card layout using CSS Flexbox.
+* [Book Catalog Table](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/book-catalog-table/) - Structured data display using HTML tables.
+* [Business Card](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/business-card/) - Personal branding using CSS styling.
+* [Checkout Page](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/checkout-page/) - Form validation and layout practice.
+* [Event Flyer Page](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/event-flyer-page/) - Visual design and typography.
+* [Five Rainbow Color Boxes](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/five-rainbow-color-boxes/) - Mastery of CSS color systems (Hex, RGB, HSL).
+* [Lab Event Hub](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/lab-event-hub/) - Interactive layout for event management.
+* [Lab Multimedia Player](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/lab-multimedia-player/) - Custom styled media controls.
+* [Movie Review Page](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/movie-review-page/) - Content-heavy page structure.
+* [Stylized To-Do List](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/stylized-to-do-list/) - UI/UX design for productivity tools.
+* [Travel Agency Page](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/travel-agency-page/) - Full-width landing page design.
+* [Customer Complaint Form](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/customer-complaint-form/) - Using modern CSS `:has()` for conditional logic.
+* [Video Compilation Page](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/video-compilation-page/) - A page displaying video sourced from youtube.
 ## 🛠️ Tech Stack
 * HTML5, CSS3
 * Responsive Design
