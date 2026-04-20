@@ -21,6 +21,7 @@ These projects focus on CSS Flexbox, Grid, Typography, and Responsive Design pri
 * [Travel Agency Page](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/travel-agency-page/) - Full-width landing page design.
 * [Customer Complaint Form](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/customer-complaint-form/) - Using modern CSS `:has()` for conditional logic.
 * [Video Compilation Page](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/video-compilation-page/) - A page displaying video sourced from youtube.
+* [Feature Selection Page](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/feature-selection-page/) - Custom-styled checkboxes and FontAwesome integration.
 ## 🛠️ Tech Stack
 * HTML5, CSS3
 * Responsive Design
