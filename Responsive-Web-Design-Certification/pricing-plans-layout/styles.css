@@ -1,0 +1,146 @@
+body {
+  font-family: arial, sans-serif;
+  background: linear-gradient(#ebfaf9, #e6fffe);
+  color: #232b2b;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  font-size: 1.2rem;
+}
+
+.header-links span {
+  margin: 0 10px
+}
+
+.header-links span:last-child {
+  border-bottom: 3px solid #8c8c8c;
+  padding-bottom: 3px;
+}
+
+button {
+  background-color: #e6fffe;
+  border-radius: 5px;
+  border: 0.5px solid gray;
+}
+
+button:hover {
+  cursor: pointer;
+  filter: brightness(80%);
+}
+
+.login-button {
+  padding: 7px;
+  font-size: 1rem;
+  margin-top: -2px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px
+}
+
+.pricing-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 80px;
+  margin: 50px auto 10px;
+  padding: 20px;
+  /* border: 1px solid red; */
+}
+
+.pricing-card {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 200px;
+  justify-content: space-between;
+  border: 2px solid black;
+  border-radius: 10px;;
+  text-align: center;
+  padding: 0 20px;
+  box-shadow: 0 0 2px 1.5px gray;
+  transition: transform 0.3s ease, background-position 0.34s ease-out, color 0.3s ease;
+  background: linear-gradient(45deg, #6b6dd1 30%, #e6fffe 60%);
+  background-size: 100% 200%;
+  background-position: top;
+}
+
+.pricing-card:hover {
+  transform: scale(1.03);
+  background-position: bottom;
+  color: #faffff;
+}
+
+.pricing-card:hover .features p span {
+  background-color: #faffff;
+  color:  #484AAA;
+}
+
+.pricing-card:hover .try-button {
+  color: #484AAA;
+  border: 1px solid #484AAA;
+}
+
+.price {
+  font-size: 2rem;
+  margin-top: 8px;
+  border-bottom: 1px solid gray;
+  padding-bottom: 16px;
+}
+
+.features {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.features p {
+  /* border: 1px solid red; */
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  text-align: left;
+  margin: 8px;
+}
+
+.features p span {
+  /* border: 2px solid #e0e0e0; */
+  width: 15px;
+  height: 17px;
+  border-radius: 50%;
+  padding: 3px 4px;
+  margin-top: -5px;
+  text-align: center;
+  font-weight: 800;
+  color: #faffff;
+  background-color: #484AAA;
+  flex-shrink: 0;
+  flex-grow: 0;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.try-button {
+  padding: 14px;
+  width: 180px;
+  margin: 20px auto 10px;
+  font-size: 1.2rem;
+  transition: all 0.3s ease;
+}
+
+.basic-plan {
+  order: 0;
+  flex-grow: 2;
+}
+
+.pro-plan {
+  order: 1;
+  flex-grow: 2;
+}
+
+.premium-plan {
+  order: 2;
+  flex-grow: 2;
+}
