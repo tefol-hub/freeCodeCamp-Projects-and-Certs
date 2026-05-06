@@ -24,7 +24,7 @@ These projects focus on CSS Flexbox, Grid, Typography, and Responsive Design pri
 * [Feature Selection Page](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/feature-selection-page/) - Custom-styled checkboxes and FontAwesome integration.
 * [Confidential Email UI](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/confidential-email-ui/) - Creative use of CSS transforms (rotate, scale, translate) and blur filters.
 * [Pricing Plans Layout](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/pricing-plans-layout/) - Flexbox-driven card layout with dynamic gradient transitions and hover effects.
-* * [Playing Cards UI](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/playing-cards-ui/) - Advanced CSS animations, sprite sheets, and 2D transforms.
+* [Playing Cards UI](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/playing-cards-ui/) - Advanced CSS animations, sprite sheets, and 2D transforms.
 ## 🛠️ Tech Stack
 * HTML5, CSS3
 * Responsive Design
