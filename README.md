@@ -25,6 +25,7 @@ These projects focus on CSS Flexbox, Grid, Typography, and Responsive Design pri
 * [Confidential Email UI](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/confidential-email-ui/) - Creative use of CSS transforms (rotate, scale, translate) and blur filters.
 * [Pricing Plans Layout](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/pricing-plans-layout/) - Flexbox-driven card layout with dynamic gradient transitions and hover effects.
 * [Playing Cards UI](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/playing-cards-ui/) - Advanced CSS animations, sprite sheets, and 2D transforms.
+* [Newspaper Article Layout](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/newspaper-article-layout/) - Classic editorial design using typography-focused CSS and pseudo-elements.
 ## 🛠️ Tech Stack
 * HTML5, CSS3
 * Responsive Design
