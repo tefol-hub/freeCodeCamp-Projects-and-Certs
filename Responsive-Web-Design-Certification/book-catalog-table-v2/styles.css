@@ -1,0 +1,79 @@
+html {
+  font-size: 16px;
+  font-family: Poppins, sans serif;
+}
+
+table {
+  border-collapse: collapse;
+  
+} 
+
+thead tr {
+  background: linear-gradient(to top, #EEF2FF 70%, #EEFFFF);
+}
+
+tr[class="read"] {
+  background: linear-gradient(to top, #D1FAE5 60%, #EEF2FF);
+}
+
+tr[class="in-progress"] {
+  background: linear-gradient(to top, #FEF3C7 60%, #EEF2FF);
+}
+
+tr[class="to-read"] {
+  background: linear-gradient(to top,#FCFFFC 60%, #EEF2FF);
+}
+
+td {
+  text-align: center;
+}
+
+span {
+  display: inline-block;
+}
+
+tr[class="to-read"] span[class="status"] {
+  border: 1px solid #f5957a;
+  background-image: linear-gradient(to top, #d1684b 60%, #f5957a);
+}
+
+tr[class="in-progress"] span[class="status"] {
+  border: 1px solid #fad689;
+  background-image: linear-gradient(to top, #dbad48 60%, #fad689);
+}
+
+tr[class="read"] span[class="status"] {
+  border: 1px solid #c3f7c5;
+  background-image: linear-gradient(to top, #4bd150 60%, #c3f7c5);
+}
+
+span[class="status"], span[class^="rate"]  {
+  height: 2rem;
+  width: 8rem;
+  padding: 4px;
+  text-align: center;
+  align-content: center;
+  margin: 5px;
+  border-radius: 20px
+}
+
+span[class^="rate"] > span {
+  border: 1px solid gray;
+  border-radius: 50%;
+  height: 1rem;
+  width: 1rem;
+  background-color: #FFF0FF;
+  margin: 3px;
+}
+
+span[class~="one"] span:first-of-type {
+  background-image: linear-gradient(to top, #cbe657 80%, #EEF2FF);
+}
+
+span[class~="two"] span:nth-of-type(-n+2) {
+  background-image: linear-gradient(to top, #cbe657 80%, #EEF2FF);
+}
+
+span[class~="three"] span {
+  background-image: linear-gradient(to top, #cbe657 80%, #EEF2FF);
+}
