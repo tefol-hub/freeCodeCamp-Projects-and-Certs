@@ -7,6 +7,15 @@ This repository is a comprehensive collection of my web development journey thro
 ### 1. Responsive Web Design
 These projects focus on CSS Flexbox, Grid, Typography, and Responsive Design principles.
 
+### 🏆 Core Certification Projects
+*Major projects required to earn the official freeCodeCamp Certification:*
+
+* **[Book Catalog Table V2](./Responsive-Web-Design-Certification/book-catalog-table-v2)** - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/book-catalog-table-v2/) | Verified table layout featuring advanced CSS attribute selection and mathematical rating selectors.
+* **[Playing Cards UI](./Responsive-Web-Design-Certification/playing-cards-ui)**
+- [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/playing-cards-ui/) - Advanced CSS animations, sprite sheets, and 2D transforms.
+
+---
+
 * [Audio & Video Player](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/audio-video-player/) - Practicing HTML5 media tags.
 * [Blog Post Card](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/blog-post-card/) - Card layout using CSS Flexbox.
 * [Book Catalog Table](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/book-catalog-table/) - Structured data display using HTML tables.
@@ -24,7 +33,6 @@ These projects focus on CSS Flexbox, Grid, Typography, and Responsive Design pri
 * [Feature Selection Page](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/feature-selection-page/) - Custom-styled checkboxes and FontAwesome integration.
 * [Confidential Email UI](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/confidential-email-ui/) - Creative use of CSS transforms (rotate, scale, translate) and blur filters.
 * [Pricing Plans Layout](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/pricing-plans-layout/) - Flexbox-driven card layout with dynamic gradient transitions and hover effects.
-* [Playing Cards UI](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/playing-cards-ui/) - Advanced CSS animations, sprite sheets, and 2D transforms.
 * [Newspaper Article Layout](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/newspaper-article-layout/) - Classic editorial design using typography-focused CSS and pseudo-elements.
 * [House Painting CSS](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/house-painting-css) - Illustrative CSS project using absolute positioning and complex repeating gradients.
 ## 🛠️ Tech Stack
