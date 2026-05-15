@@ -11,8 +11,7 @@ These projects focus on CSS Flexbox, Grid, Typography, and Responsive Design pri
 *Major projects required to earn the official freeCodeCamp Certification:*
 
 * **[Book Catalog Table V2](./Responsive-Web-Design-Certification/book-catalog-table-v2)** - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/book-catalog-table-v2/) | Verified table layout featuring advanced CSS attribute selection and mathematical rating selectors.
-* **[Playing Cards UI](./Responsive-Web-Design-Certification/playing-cards-ui)**
-- [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/playing-cards-ui/) - Advanced CSS animations, sprite sheets, and 2D transforms.
+* **[Playing Cards UI](./Responsive-Web-Design-Certification/playing-cards-ui)** - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/playing-cards-ui/) - Advanced CSS animations, sprite sheets, and 2D transforms.
 
 ---
 
