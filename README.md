@@ -36,6 +36,7 @@ These projects focus on CSS Flexbox, Grid, Typography, and Responsive Design pri
 * [House Painting CSS](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/house-painting-css) - Illustrative CSS project using absolute positioning and complex repeating gradients.
 * [Availability Table](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/availability-table/) | Data visualization component using CSS custom properties, complex grid borders, and segmented linear-gradients.
 * [Newspaper Grid Layout](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/newspaper-grid-layout/) | Editorial dashboard showcasing CSS Grid named template areas, fluid imagery handling, and two-stage responsive breakpoints.
+* [Confidential Email UI](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/confidential-email-ui/) - Creative use of CSS transforms (rotate, scale, translate) and blur filters.
 ## 🛠️ Tech Stack
 * HTML5, CSS3
 * Responsive Design

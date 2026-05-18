@@ -1,0 +1,75 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+  background-image: 
+  radial-gradient(1px 1px at 20px 30px, #fff, rgba(0, 0, 0, 0)),
+    radial-gradient(1px 1px at 71px 13px, #fff, rgba(0, 0, 0, 0)),
+    radial-gradient(1px 1px at 41px 89px, #fff, rgba(0, 0, 0, 0)),
+    radial-gradient(1px 1px at 113px 53px, #fff, rgba(0, 0, 0, 0)),
+    radial-gradient(1px 1px at 281px 227px, #fff, rgba(0, 0, 0, 0)),
+    radial-gradient(1.5px 1.5px at 193px 50px, #fff, rgba(0, 0, 0, 0)),
+    radial-gradient(2px 2px at 193px 50px, #fff, rgba(0, 0, 0, 0));
+  background-size: 100px 100px, 131px 131px, 227px 227px, 227px 227px, 419px 429px, 411px 419px, 100px 100px;
+}
+
+.space {
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  background-color: #000;
+  background-image: inherit;
+  background-size: inherit; 
+}
+
+.earth {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border-radius: 50%;
+  box-shadow: 0px 0px 50px 0px blue;
+}
+
+.orbit {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  animation: orbit 5s linear infinite;
+}
+
+.moon {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 50%;
+  background-color: gray;
+  box-shadow: 
+    0px 1px 10px 0px gray,
+    -10px 6px 20px 0px gray, 
+    -20px 10px 30px 0px gray, 
+    -38px 30px 40px 0px gray
+  ;
+}
+
+@keyframes orbit {
+  0% {
+    transform: rotate(0deg) translate(-50%, -50%);
+  }
+  100% {
+    transform: rotate(360deg) translate(-50%, -50%);
+  }
+}
+
