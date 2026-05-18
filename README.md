@@ -34,6 +34,8 @@ These projects focus on CSS Flexbox, Grid, Typography, and Responsive Design pri
 * [Pricing Plans Layout](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/pricing-plans-layout/) - Flexbox-driven card layout with dynamic gradient transitions and hover effects.
 * [Newspaper Article Layout](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/newspaper-article-layout/) - Classic editorial design using typography-focused CSS and pseudo-elements.
 * [House Painting CSS](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/house-painting-css) - Illustrative CSS project using absolute positioning and complex repeating gradients.
+* [Availability Table](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/availability-table/) | Data visualization component using CSS custom properties, complex grid borders, and segmented linear-gradients.
+* [Newspaper Grid Layout](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/newspaper-grid-layout/) | Editorial dashboard showcasing CSS Grid named template areas, fluid imagery handling, and two-stage responsive breakpoints.
 ## 🛠️ Tech Stack
 * HTML5, CSS3
 * Responsive Design
