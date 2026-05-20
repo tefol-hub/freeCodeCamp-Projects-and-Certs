@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Documentation</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap">
+    <meta name="description" content="Technical Documentation Page">
+  </head>
+  <body>
+      <nav id="navbar">
+        <ul id="navbar-list">
+          <li id="rekt-head">
+            <header>Rekt Documentation</header>
+          </li>
+          <li id="top-element">
+            <a class="nav-link" href="#Introduction">Introduction</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#Data_Types">Data Types</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#Variables">Variables</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#Control_Structures">Control Structures</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#Functions">Functions</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#Modules">Modules</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#Object-Oriented_Programming">Object-Oriented Programming</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#Error_Handling">Error Handling</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#Standard_Library">Standard Library</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#File_Input/Output_Operations">File Input/Output Operations</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#Conditional_Statements">Conditional Statements</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#Looping_Constructs">Looping Constructs</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#Error_Reporting_and_Debugging">Error Reporting and Debugging</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#Event_Handling">Event Handling</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#Reference">Reference</a>
+          </li>
+        </ul>
+      </nav>
+    <main id="main-doc"> 
+      <section class="main-section" id="Introduction">
+        <header>Introduction</header>
+        <div class="indent">
+          <p>Rekt is a versatile, high-level programming language designed for various platforms. It combines simplicity and readability with powerful features, making it suitable for both beginners and experienced developers. Rekt provides an object-oriented approach and offers extensive libraries to facilitate software development.</p>
+        </div>
+      </section>
+
+      <section class="main-section" id="Data_Types">
+        <header>Data Types</header>
+        <div class="indent">
+          <p>Rekt supports several fundamental data types, allowing you to work with different kinds of values:</p>
+          <ol>
+            <li>Boolean: Represents a logical value of either true or false.</li>
+            <li>Integer: Represents whole numbers without decimal points.</li>
+            <li>Float: Represents numbers with fractional parts.</li>
+            <li>String: Represents a sequence of characters.</li>
+            <li>List: Represents an ordered collection of items.</li>
+            <li>Dictionary: Represents a collection of key-value pairs.</li>
+            <li>Object: Represents a complex data structure that encapsulates both data and behavior.</li>
+          </ol>
+        </div>
+      </section>
+
+      <section class="main-section" id="Variables">
+        <header>Variables</header>
+        <div class="indent">
+          <p>Variables in Rekt are used to store and manipulate data. Here are the key points to understand about variables:<br><br>
+  Declaration: Variables are declared using the following syntax:</p>
+          <code>var variableName = value;</code>
+          <p>Variable Naming: Variable names must start with a letter and can contain letters, digits, and underscores. They are case-sensitive.<br><br>
+  Constants: Constants are declared using the const keyword and hold values that cannot be changed.</p>
+        </div>
+      </section>
+
+      <section class="main-section" id="Control_Structures">
+        <header>Control Structures</header>
+        <div class="indent">
+          <p>Rekt provides various control structures to modify the flow of execution within a program. Here are some essential control structures:</p>
+          <ol>
+            <li>
+              If...else Statement: Allows conditional execution of code based on a given condition.<br>
+              <code>if condition:<br>&nbsp;&nbsp;statement1<br>else:<br>&nbsp;&nbsp;statement2</code>
+            </li>
+            <li>
+              While Statement: Repeats a block of code as long as a given condition is true.<br>
+              <code>while condition:<br>&nbsp;&nbsp;statement</code>
+              </li>
+            <li>
+              For Loop: Executes a block of code repeatedly for a specified number of times or over a collection of items.<br>
+              <code>for item in collection:<br>&nbsp;&nbsp;statement</code>
+            </li>
+          </ol>
+        </div>
+      </section>
+
+      <section class="main-section" id="Functions">
+        <header>Functions</header>
+        <div class="indent">
+          <p>Functions in Rekt allow you to encapsulate reusable blocks of code. They are defined using the following syntax:</p>
+          <code>def functionName(parameters):<br>&nbsp;&nbsp;statement<br>&nbsp;&nbsp;return value
+  </code>
+          <p>Key concepts related to functions:</p>
+          <ul>
+            <li>Parameters: Functions can accept input parameters that are used within the function's body.</li>
+            <li>Return Statement: Functions can return a value after performing specific operations.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="main-section" id="Modules">
+        <header>Modules</header>
+        <div class="indent">
+          <p>Rekt supports modular programming through the use of modules. A module is a file containing Python definitions and statements that can be imported and used in other programs. Modules provide code reusability and organization.</p>
+        </div>
+      </section>
+
+      <section class="main-section" id="Object-Oriented_Programming">
+        <header>Object-Oriented Programming</header>
+        <div class="indent">
+          <p>Rekt fully supports object-oriented programming (OOP) principles. OOP allows you to define classes and create objects with properties (attributes) and behaviors (methods). Key OOP concepts in Rekt include:</p>
+          <ul>
+            <li>Classes: Classes serve as blueprints for creating objects. They define the attributes and methods that objects of the class possess.</li>
+            <li>Objects: Objects are instances of classes. They encapsulate data and behavior defined by the class.</li>
+            <li>Inheritance: Inheritance allows classes to inherit attributes and methods from other classes, establishing a hierarchical relationship.</li>
+            <li>Polymorphism: Polymorphism enables objects of different classes to be used interchangeably based on a shared interface.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="main-section" id="Error_Handling">
+        <header>Error Handling</header>
+        <div class="indent">
+          <p>Rekt provides robust error handling mechanisms to handle unexpected situations during program execution. Key error handling features include:</p>
+          <ul>
+            <li>Exception Handling: Exceptions allow you to catch and handle errors that occur during program execution. They help ensure program stability and provide alternative actions when errors occur.</li>
+            <li>Try...except Block: The try...except block allows you to handle specific exceptions and execute alternative code paths when exceptions are raised.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="main-section" id="Standard_Library">
+        <header>Standard Library</header>
+        <div class="indent">
+          <p>Rekt includes a comprehensive standard library that provides numerous modules and packages for various tasks</p>
+        </div>
+      </section>
+
+      <section class="main-section" id="File_Input/Output_Operations">
+        <header>File Input/Output Operations</header>
+        <div class="indent">
+          <p>Rekt provides functionalities for file input/output operations. You can read data from external files, such as text files or databases, and write data to them. This language includes built-in functions and libraries to handle file operations efficiently, allowing you to perform tasks like reading configuration files, parsing data, and generating reports.</p>
+        </div>
+      </section>
+
+      <section class="main-section" id="Conditional_Statements">
+        <header>Conditional Statements</header>
+        <div class="indent">
+          <p>Rekt provides conditional statements to control the flow of execution based on specific conditions. You can use the if...else statement to perform different actions based on whether a condition is true or false. Additionally, the else if clause allows you to test multiple conditions in sequence.</p>
+        </div>
+      </section>
+
+      <section class="main-section" id="Looping_Constructs">
+        <header>Looping Constructs</header>
+        <div class="indent">
+          <p>To repeat a set of instructions multiple times, Rekt offers looping constructs. The while statement allows you to execute a block of code repeatedly as long as a specified condition remains true. You can also use the for statement to iterate over a sequence of values, such as elements in an array.</p>
+        </div>
+      </section> 
+
+      <section class="main-section" id="Error_Reporting_and_Debugging">
+        <header>Error Reporting and Debugging</header>
+        <div class="indent">
+          <p>To aid in the development process, Rekt offers features for error reporting and debugging. When an error occurs, the language provides detailed error messages and stack traces, making it easier to identify and resolve issues in your code. Additionally, you can use debugging tools and techniques to step through your code, inspect variables, set breakpoints, and track the flow of execution for effective debugging.
+          </p>
+        </div>
+      </section>
+
+      <section class="main-section" id="Event_Handling">
+        <header>Event Handling</header>
+        <div class="indent">
+          <p>Rekt supports event handling to respond to user interactions. You can assign event handlers to HTML elements to trigger specific actions when events occur. For example, you can use the onclick attribute to specify a function that should be executed when an element is clicked. This enables dynamic and interactive behavior in web applications built with the language.</p>
+        </div>
+      </section>
+
+      <section class="main-section" id="Reference">
+        <header>Reference</header>
+        <div class="indent">
+          <p>The documentation provided for the imaginary language Rekt, in this conversation has been generated by ChatGPT, an AI language model developed by OpenAI. While ChatGPT has been trained on a wide range of data sources, it is important to note that the specific details and features of the imaginary language are purely fictional and do not correspond to any real-world programming language.<br><br>
+  As an AI language model, ChatGPT does not have direct access to external sources or the ability to browse the internet. Instead, it has been trained on diverse text data, including books, articles, websites, and other textual sources, to develop a broad understanding of human language. The information presented in this documentation is a creative output generated by the model based on its training data.<br><br>
+  While efforts have been made to provide helpful and accurate information, it is essential to remember that the imaginary language and its features are entirely fictional and have no real-world implementation. Therefore, there are no external sources or references to cite for the information provided in this documentation.<br><br>
+  Please treat the content as a product of the model's creative imagination rather than a representation of real programming concepts or languages.</p>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,129 @@
+/* General Styles */
+body {
+  background-image: url(https://habitatbroward.org/wp-content/uploads/2020/01/10-Benefits-Showing-Why-Education-Is-Important-to-Our-Society.jpg);
+  font-family: Arial, Tahoma;
+  margin: 0;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+.form-body {
+  width: 80%;
+  background-color: rgb(120, 150, 110);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  background-color: #f7f7f7;
+  padding: 40px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+p {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+form {
+  margin-top: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: #333;
+  width: 100%;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select,
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+fieldset {
+  border: none;
+  margin-bottom: 20px;
+}
+
+legend {
+  font-weight: bold;
+  color: #333;
+  padding-bottom: 0px;
+}
+
+.grades {
+  display: inline-block;
+  margin-bottom: 0px;
+  vertical-align: middle;
+}
+
+#title {
+  font-size: 28px;
+}
+
+#description {
+  font-size: 18px;
+}
+
+textarea {
+  resize: vertical;
+}
+
+fieldset legend {
+  margin-bottom: 20px;
+}
+
+fieldset label {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 600px) {
+  .container {
+    padding: 15px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+}
+
+.teach {
+  width: 100%;
+  margin-bottom: 20px;
+  margin-right: 50px;
+  padding-left: 0px;
+}
