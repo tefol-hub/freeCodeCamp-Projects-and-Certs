@@ -1,6 +1,6 @@
 # JavaScript Trivia Bot
 
-[Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/JavaScript-Certification/javascript-trivia-bot/)
+[Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/javascript-trivia-bot/)
 [Lab Instructions](https://www.freecodecamp.org/learn/javascript-v9/lab-javascript-trivia-bot/lab-javascript-trivia-bot)
 
 ## 📸 Preview
