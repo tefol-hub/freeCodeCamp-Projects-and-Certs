@@ -24,6 +24,8 @@ These projects focus on CSS Flexbox, Grid, Typography, and Responsive Design pri
 
 ## 🧪 Modules & Practice Labs
 
+## ⚙️ Responsive Web Design
+
 ### 📋 Basic HTML
 > 📖 **Study & Revision Resource:** [Basic HTML Review Quiz](https://www.freecodecamp.org/learn/responsive-web-design-v9/review-basic-html/basic-html-review)
 
@@ -132,6 +134,14 @@ These projects focus on CSS Flexbox, Grid, Typography, and Responsive Design pri
 
 * [Moon Orbit Animation](./Responsive-Web-Design-Certification/moon-orbit-animation) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/moon-orbit-animation/) | Space-themed physics simulation using infinite CSS `@keyframes` rotational loops, custom box-shadow casting, and hard-coded radial gradient starfields.
 * [Personal Portfolio Page](./Responsive-Web-Design-Certification/personal-portfolio-page) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/personal-portfolio-page/) | Enhanced portfolio layout featuring interactive navigation, modern asset framing, and optimized container sections to showcase frontend works.
+
+---
+## 🟨 JavaScript
+
+### 🧵 Variables and Strings
+> 📖 **Study & Revision Resource:** [Variables and Strings Review Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-strings/review-javascript-strings)
+
+* [JavaScript Trivia Bot](./JavaScript-Certification/javascript-trivia-bot) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/JavaScript-Certification/javascript-trivia-bot/) | Interactive console bot teaching programming trivia. Features an enhanced Prism.js dashboard for source-code download capabilities.
 
 ---
 
