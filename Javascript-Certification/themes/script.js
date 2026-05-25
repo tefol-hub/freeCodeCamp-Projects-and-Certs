@@ -62,5 +62,5 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 document.addEventListener("DOMContentLoaded", function() {
-  Prism.fileHighlight();
+  Prism.plugins.fileHighlight.fileHighlight();
 })
