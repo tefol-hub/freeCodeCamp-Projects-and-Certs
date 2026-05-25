@@ -61,6 +61,13 @@ document.addEventListener("DOMContentLoaded", () => {
   }, 0);
 });
 
-document.addEventListener("DOMContentLoaded", function() {
-  Prism.plugins.fileHighlight.highlight();
-})
+fetch('script.js')
+  .then(response => response.text())
+  .then(data => {
+    const codeEl = document.getElementById('js-code');
+    codeEl.textContent = data;
+    Prism.highlightElement(codeEl);
+  })
+  .catch(error => {
+    console.error('Error loading the JS file:', error);
+  });
