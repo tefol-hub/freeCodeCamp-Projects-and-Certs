@@ -66,7 +66,7 @@ fetch('script.js')
   .then(data => {
     const codeEl = document.getElementById('js-code');
     codeEl.textContent = data;
-    Prism.highlightElement(codeEl.closest('pre'));
+    Prism.highlightAllUnder(document.body);
   })
   .catch(error => {
     console.error('Error loading the JS file:', error);
