@@ -46,9 +46,9 @@ pre {
 	padding: 2rem 1rem 1rem !important;
 } */
 
-pre code {
+/* pre code {
 	white-space: pre !important;
-}
+} */
 
 pre:hover {
 	scrollbar-width: thin;
@@ -64,7 +64,7 @@ div.code-toolbar {
 	border: 1px solid blue;
 }
 
-div.code-toolbar > .toolbar {
+/* div.code-toolbar > .toolbar {
 	position: absolute;
 	width: 80%;
 	top: 10px;
@@ -74,11 +74,8 @@ div.code-toolbar > .toolbar {
 	justify-content: flex-end;
 	align-items: center;
 	gap: 10px;
-	/*display: grid;*/
-	/*grid-template-columns: 86% 7% 7%;*/
-	/*border: 1px solid red;*/
 	border: 1px solid green;
-}
+} */
 
 div.code-toolbar > .toolbar .lang-label {
 	font-size: 1.3rem !important;
