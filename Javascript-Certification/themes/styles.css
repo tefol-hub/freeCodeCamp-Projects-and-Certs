@@ -77,7 +77,7 @@ div.code-toolbar {
 	border: 1px solid green;
 } */
 
-div.code-toolbar > .toolbar .lang-label {
+/* div.code-toolbar > .toolbar .lang-label {
 	font-size: 1.3rem !important;
 	display: block;
 	position: absolute;
@@ -87,7 +87,7 @@ div.code-toolbar > .toolbar .lang-label {
 	pointer-events: none;
 	background: transparent;
 	box-shadow: none !important;
-}
+} */
 
 div.code-toolbar > .toolbar button,
 div.code-toolbar > .toolbar .toolbar-item:first-child span {
