@@ -1,7 +1,10 @@
 Prism.plugins.toolbar.registerButton("lang-label", function (env) {
   const span = document.createElement("span");
-  span.textContent = `</> ${env.language}`;
+
+  span.textContent = `${env.language}`;
+
   span.classList.add("lang-label");
+  
   return span;
 });
 
