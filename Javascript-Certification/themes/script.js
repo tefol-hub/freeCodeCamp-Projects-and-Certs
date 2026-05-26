@@ -4,7 +4,6 @@ fetch('script.js')
     const codeEl = document.getElementById('js-code');
     codeEl.textContent = data;
     Prism.highlightElement(codeEl);
-    Prism.plugins.toolbar.registered;
   })
   .catch(error => {
     console.error('Error loading the JS file:', error);
