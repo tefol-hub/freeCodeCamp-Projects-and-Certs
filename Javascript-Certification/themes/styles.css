@@ -35,6 +35,10 @@ pre {
 	cursor: text;
 }
 
+pre[class*="language-"] {
+	padding: 2rem 1rem 1rem;
+}
+
 pre:hover {
 	scrollbar-width: thin;
 }
