@@ -29,7 +29,6 @@ div.code-toolbar {
 	height: fit-content;
 	max-height: 800px;
 	margin: 30px auto;
-	border: 1px solid blue;
 }
 
 pre {
@@ -65,7 +64,6 @@ div.code-toolbar > .toolbar {
 	justify-content: flex-end;
 	align-items: center;
 	gap: 0.6rem;
-	border: 1px solid green;
 }
 
 div.code-toolbar > .toolbar .lang-label {
