@@ -55,9 +55,9 @@ pre {
 	padding: 2rem 1rem 1rem !important;
 } */
 
-pre code {
+/* pre code {
 	white-space: pre !important;
-}
+} */
 
 pre:hover {
 	scrollbar-width: thin;
@@ -77,20 +77,22 @@ div.code-toolbar > .toolbar {
 	border: 1px solid green;
 }
 
-/* div.code-toolbar > .toolbar .lang-label {
+div.code-toolbar > .toolbar .lang-label {
 	font-size: 1.3rem !important;
 	display: block;
 	position: absolute;
-	top: 0;
+	/* top: 0; */
 	left: 0;
-	padding: 0;
+	/* padding: 0; */
 	pointer-events: none;
-	background: transparent;
-	box-shadow: none !important;
-} */
+	/* background: transparent;
+	box-shadow: none !important; */
+}
 
 div.code-toolbar > .toolbar button,
-div.code-toolbar > .toolbar .toolbar-item:first-child span {
+div.code-toolbar > .toolbar .lang-label
+/* div.code-toolbar > .toolbar .toolbar-item:first-child span  */
+{
 	background: transparent; 
 	box-shadow: none !important;
 }
@@ -110,9 +112,9 @@ div.code-toolbar > .toolbar button:hover {
 	content: "</> ";
 }*/
 
-div.code-toolbar > .toolbar .toolbar-item:first-child {
+/* div.code-toolbar > .toolbar .toolbar-item:first-child {
 	font-size: 1.3rem;
-}
+} */
 
 div.code-toolbar svg {
 	width: 1.3rem;
