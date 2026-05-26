@@ -19,3 +19,4 @@ codingFact = "As great as " + favoriteLanguage + "is, beware! You will spend qui
 console.log(codingFact);
 
 console.log("It was fun sharing these facts with you. Goodbye! - " + botName + " from " + botLocation + "."); 
+
