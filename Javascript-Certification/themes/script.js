@@ -1,6 +1,7 @@
 Prism.plugins.toolbar.registerButton("lang-label", function (env) {
   const span = document.createElement("span");
   span.textContent = `</> ${env.language}`;
+  span.classList.add("lang-label");
   return span;
 });
 
@@ -78,10 +79,3 @@ fetch('script.js')
   .catch(error => {
     console.error('Error loading the JS file:', error);
   });
-
-  document.querySelectorAll('pre[class*="language-"]').forEach(pre => {
-  const lang = [...pre.classList]
-    .find(c => c.startsWith('language-'))
-    ?.replace('language-', '');
-  if (lang) pre.style.setProperty('--lang', `"</> ${lang}"`);
-});
