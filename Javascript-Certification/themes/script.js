@@ -10,15 +10,15 @@ fetch('script.js')
     console.error('Error loading the JS file:', error);
   });
 
-Prism.plugins.toolbar.registerButton("lang-label", function (env) {
-  const span = document.createElement("span");
+// Prism.plugins.toolbar.registerButton("lang-label", function (env) {
+//   const span = document.createElement("span");
 
-  span.textContent = `${env.language}`;
+//   span.textContent = `${env.language}`;
 
-  span.classList.add("lang-label");
+//   span.classList.add("lang-label");
   
-  return span;
-});
+//   return span;
+// });
 
 Prism.plugins.toolbar.registerButton("download-code", function (env) {
   const button = document.createElement("button");
