@@ -72,3 +72,10 @@ fetch('script.js')
   .catch(error => {
     console.error('Error loading the JS file:', error);
   });
+
+  document.querySelectorAll('pre[class*="language-"]').forEach(pre => {
+  const lang = [...pre.classList]
+    .find(c => c.startsWith('language-'))
+    ?.replace('language-', '');
+  if (lang) pre.style.setProperty('--lang', `"</> ${lang}"`);
+});
