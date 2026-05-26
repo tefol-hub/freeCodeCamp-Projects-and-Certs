@@ -1,3 +1,15 @@
+fetch('script.js')
+  .then(response => response.text())
+  .then(data => {
+    const codeEl = document.getElementById('js-code');
+    codeEl.textContent = data;
+    Prism.highlightElement(codeEl);
+    Prism.plugins.toolbar.registered;
+  })
+  .catch(error => {
+    console.error('Error loading the JS file:', error);
+  });
+
 Prism.plugins.toolbar.registerButton("lang-label", function (env) {
   const span = document.createElement("span");
 
@@ -71,14 +83,3 @@ document.addEventListener("DOMContentLoaded", () => {
   }, 0);
 });
 
-fetch('script.js')
-  .then(response => response.text())
-  .then(data => {
-    const codeEl = document.getElementById('js-code');
-    codeEl.textContent = data;
-    Prism.highlightElement(codeEl);
-    Prism.plugins.toolbar.registered;
-  })
-  .catch(error => {
-    console.error('Error loading the JS file:', error);
-  });
