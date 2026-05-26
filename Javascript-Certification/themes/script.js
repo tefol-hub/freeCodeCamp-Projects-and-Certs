@@ -1,3 +1,9 @@
+Prism.plugins.toolbar.registerButton("lang-label", function (env) {
+  const span = document.createElement("span");
+  span.textContent = `</> ${env.language}`;
+  return span;
+});
+
 Prism.plugins.toolbar.registerButton("download-code", function (env) {
   const button = document.createElement("button");
 
