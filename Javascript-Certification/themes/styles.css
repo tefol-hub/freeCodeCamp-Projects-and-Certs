@@ -64,7 +64,7 @@ div.code-toolbar {
 
 div.code-toolbar > .toolbar {
 	position: absolute;
-	width: 100%;
+	width: 80%;
 	top: 10px;
 	left: 14px;
 	opacity: 1 !important;
