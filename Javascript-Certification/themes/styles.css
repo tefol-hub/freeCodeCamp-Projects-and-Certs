@@ -54,7 +54,7 @@ pre:hover {
 	scrollbar-width: thin;
 }
 
-div.code-toolbar {
+/* div.code-toolbar {
 	position: relative;
 	width: 100%;
 	height: fit-content;
@@ -62,7 +62,7 @@ div.code-toolbar {
 	max-height: 800px;
 	margin: 30px auto;
 	border: 1px solid blue;
-}
+} */
 
 /* div.code-toolbar > .toolbar {
 	position: absolute;
