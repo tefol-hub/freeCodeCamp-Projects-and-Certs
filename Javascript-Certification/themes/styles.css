@@ -39,17 +39,13 @@ pre[class*="language-"] {
 	padding: 2rem 1rem 1rem !important;
 }
 
+pre code {
+	white-space: pre !important;
+}
+
 pre:hover {
 	scrollbar-width: thin;
 }
-
-/*pre[class*="language-"] {
-	content: var(--lang);
-	display: block;
-	font-size: 1rem;
-	color: #888;
-	margin-bottom: 8px;
-}*/
 
 div.code-toolbar {
 	position: relative;
