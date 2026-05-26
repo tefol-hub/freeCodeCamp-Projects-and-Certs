@@ -92,9 +92,9 @@ div.code-toolbar > .toolbar .toolbar-item span {
 	pointer-events: none;
 }
 
-div.code-toolbar > .toolbar .toolbar-item span::before {
+/*div.code-toolbar > .toolbar .toolbar-item span::before {
 	content: "</> ";
-}
+}*/
 
 div.code-toolbar > .toolbar .toolbar-item:first-child {
 	font-size: 1.3rem;
