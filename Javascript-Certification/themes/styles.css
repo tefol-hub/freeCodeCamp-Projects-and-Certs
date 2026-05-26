@@ -28,7 +28,7 @@ pre {
 	/*position: relative;*/
 	background-color: #f4f5f7;
 	margin: 0;
-	/*padding-top: 100px;*/
+	padding-top: 100px !important;
 	top: -7px;
 	color: #172b4d;
 	border: 1px solid #dfe1e6;
@@ -41,9 +41,9 @@ pre {
 	cursor: text;
 }
 
-pre[class*="language-"] {
+/* pre[class*="language-"] {
 	padding: 2rem 1rem 1rem !important;
-}
+} */
 
 pre code {
 	white-space: pre !important;
@@ -55,7 +55,7 @@ pre:hover {
 
 div.code-toolbar {
 	position: relative;
-	width: %;
+	width: 100%;
 	height: fit-content;
 	max-width: 700px;
 	max-height: 800px;
@@ -89,8 +89,6 @@ div.code-toolbar > .toolbar .lang-label {
 	box-shadow: none !important;
 }
 
-
-
 div.code-toolbar > .toolbar button,
 div.code-toolbar > .toolbar .toolbar-item:first-child span {
 	background: transparent; 
@@ -102,11 +100,11 @@ div.code-toolbar > .toolbar button:hover {
 	transform: translateY(-1px);
 }
 
-div.code-toolbar > .toolbar .toolbar-item span {
+/* div.code-toolbar > .toolbar .toolbar-item span {
 	font-size: 1rem;
 	padding: 0;
 	pointer-events: none;
-}
+} */
 
 /*div.code-toolbar > .toolbar .toolbar-item span::before {
 	content: "</> ";
