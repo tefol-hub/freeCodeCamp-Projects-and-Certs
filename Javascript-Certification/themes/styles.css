@@ -23,6 +23,15 @@ p {
 	text-align: center;
 }
 
+div.code-toolbar {
+	position: relative;
+	width: min(100%, 700px);
+	height: fit-content;
+	max-height: 800px;
+	margin: 30px auto;
+	border: 1px solid blue;
+}
+
 pre {
 	font-size: 0.9rem;
 	position: relative;
@@ -53,16 +62,6 @@ pre {
 pre:hover {
 	scrollbar-width: thin;
 }
-
-/* div.code-toolbar {
-	position: relative;
-	width: 100%;
-	height: fit-content;
-	max-width: 700px;
-	max-height: 800px;
-	margin: 30px auto;
-	border: 1px solid blue;
-} */
 
 /* div.code-toolbar > .toolbar {
 	position: absolute;
