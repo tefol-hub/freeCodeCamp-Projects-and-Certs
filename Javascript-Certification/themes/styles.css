@@ -63,18 +63,18 @@ pre:hover {
 	scrollbar-width: thin;
 }
 
-/* div.code-toolbar > .toolbar {
-	position: absolute;
-	width: 80%;
-	top: 10px;
-	left: 14px;
+div.code-toolbar > .toolbar {
+	position: relative;
+	width: 100%;
+	top: 0;
+	left: 0;
 	opacity: 1 !important;
 	display: flex;
 	justify-content: flex-end;
 	align-items: center;
 	gap: 10px;
 	border: 1px solid green;
-} */
+}
 
 /* div.code-toolbar > .toolbar .lang-label {
 	font-size: 1.3rem !important;
