@@ -48,16 +48,7 @@ pre {
 	scrollbar-color: #888 transparent;
 	scrollbar-gutter: stable;
 	cursor: text;
-	border: 1px solid red;
 }
-
-/* pre[class*="language-"] {
-	padding: 2rem 1rem 1rem !important;
-} */
-
-/* pre code {
-	white-space: pre !important;
-} */
 
 pre:hover {
 	scrollbar-width: thin;
@@ -83,16 +74,11 @@ div.code-toolbar > .toolbar .lang-label {
 	position: absolute;
 	top: 0.3rem;
 	left: 0.6rem;
-	/* padding: 0; */
 	pointer-events: none;
-	/* background: transparent;
-	box-shadow: none !important; */
 }
 
 div.code-toolbar > .toolbar button,
-div.code-toolbar > .toolbar .lang-label
-/* div.code-toolbar > .toolbar .toolbar-item:first-child span  */
-{
+div.code-toolbar > .toolbar .lang-label {
 	background: transparent; 
 	box-shadow: none !important;
 }
@@ -101,20 +87,6 @@ div.code-toolbar > .toolbar button:hover {
 	border-color: #666;
 	transform: translateY(-1px);
 }
-
-/* div.code-toolbar > .toolbar .toolbar-item span {
-	font-size: 1rem;
-	padding: 0;
-	pointer-events: none;
-} */
-
-/*div.code-toolbar > .toolbar .toolbar-item span::before {
-	content: "</> ";
-}*/
-
-/* div.code-toolbar > .toolbar .toolbar-item:first-child {
-	font-size: 1.3rem;
-} */
 
 div.code-toolbar svg {
 	width: 1.3rem;
