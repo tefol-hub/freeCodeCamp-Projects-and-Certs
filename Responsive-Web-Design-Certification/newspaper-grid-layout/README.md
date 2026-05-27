@@ -4,7 +4,7 @@
 [Lab Instructions](https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-newspaper-layout/design-a-newspaper-layout)
 
 ## 📸 Preview
-![Project Screenshot](./screenshots/screenshot.png)
+![Project Screenshot](./images/screenshot.png)
 
 ## 🎯 Project Goals
 * **Objective:** Arrange asymmetric elements in a multi-column editorial grid layout.
