@@ -4,7 +4,7 @@
 [Lab Instructions](https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-feature-selection/design-a-feature-selection-page)
 
 ## 📸 Preview
-![Project Screenshot](./screenshots/screenshot.png)
+![Project Screenshot](./images/screenshot.png)
 
 ## 🎯 Project Goals
 * **Objective:** Design an interactive feature selection grid for a vehicle or service.
