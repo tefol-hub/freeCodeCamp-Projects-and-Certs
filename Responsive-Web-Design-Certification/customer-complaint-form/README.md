@@ -5,7 +5,7 @@ A functional complaint form featuring conditional field visibility.
 [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/customer-complaint-form/)
 
 ## 📸 Preview
-![Project Screenshot](./screenshots/screenshot.png)
+![Project Screenshot](./images/screenshot.png)
 
 ## 🎯 Project Goals
 * **Objective:** Practice advanced form elements and conditional styling.
