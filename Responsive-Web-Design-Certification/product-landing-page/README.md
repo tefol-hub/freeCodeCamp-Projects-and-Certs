@@ -4,7 +4,7 @@
 [Lab Instructions](https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-product-landing-page/build-a-product-landing-page)
 
 ## 📸 Preview
-![Project Screenshot](./screenshots/screenshot.png)
+![Project Screenshot](./images/screenshot.png)
 
 This project is a **responsive product landing page** built as part of the
 [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/).
