@@ -5,7 +5,7 @@ A webpage displaying a movie review with structured content.
 [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/movie-review-page/)
 
 ## 📸 Preview
-![Project Screenshot](./images/screenshot.png)
+![Project Screenshot](./media/screenshot.png)
 
 ## 🎯 Project Goals
 * **Objective:** Create a structured review layout.
