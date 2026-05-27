@@ -5,7 +5,7 @@ A styled blog card component displaying an article preview with image, title, an
 [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/blog-post-card/)
 
 ## 📸 Preview
-![Project Screenshot](./images/screenshot.png)
+![Project Screenshot](./media/screenshot.png)
 
 ## 🎯 Project Goals
 * **Objective:** Build a reusable blog card layout.
