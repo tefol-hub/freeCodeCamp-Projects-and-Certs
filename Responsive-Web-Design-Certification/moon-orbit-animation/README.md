@@ -4,7 +4,7 @@
 [Lab Instructions](https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-moon-orbit/build-a-moon-orbit)
 
 ## 📸 Preview
-![Project Screenshot](./screenshots/screenshot.png)
+![Project Screenshot](./images/screenshot.png)
 
 ## 🎯 Project Goals
 * **Objective:** Master native CSS timelines, transformations, and timing functions.
