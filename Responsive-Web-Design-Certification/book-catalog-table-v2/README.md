@@ -6,7 +6,7 @@
 ---
 
 ## 📸 Preview
-![Project Screenshot](./screenshots/screenshot.png)
+![Project Screenshot](./images/screenshot.png)
 
 ## 🎯 Project Goals
 * **Objective:** Fulfill all core freeCodeCamp certification requirements for semantic tabular data display.
