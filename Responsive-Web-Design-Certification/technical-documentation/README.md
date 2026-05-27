@@ -4,7 +4,7 @@
 [Lab Instructions](https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-technical-documentation-page/build-a-technical-documentation-page)
 
 ## 📸 Preview
-![Project Screenshot](./screenshots/screenshot.png)
+![Project Screenshot](./media/screenshot.png)
 
 This project is a **responsive technical documentation website** built as part of the
 [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/).
