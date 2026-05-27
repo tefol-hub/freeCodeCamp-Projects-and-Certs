@@ -5,7 +5,7 @@ A webpage showcasing multiple events with structured layout and sections.
 [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/lab-event-hub/)
 
 ## 📸 Preview
-![Project Screenshot](./images/screenshot1.png)
+![Project Screenshot](./media/screenshot1.png)
 
 ## 🎯 Project Goals
 * **Objective:** Build a multi-section event listing page.
