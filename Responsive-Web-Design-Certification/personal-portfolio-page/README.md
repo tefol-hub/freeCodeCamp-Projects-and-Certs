@@ -4,7 +4,7 @@
 [Lab Instructions](https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-personal-portfolio/build-a-personal-portfolio)
 
 ## 📸 Preview
-![Project Screenshot](./screenshots/screenshot.png)
+![Project Screenshot](./images/screenshot.png)
 
 This is my **personal developer portfolio website**, originally built as part of the
 [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/).
