@@ -5,7 +5,7 @@ A layout displaying five colorful boxes representing a rainbow.
 [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/five-rainbow-color-boxes/)
 
 ## 📸 Preview
-![Project Screenshot](./images/screenshot.png)
+![Project Screenshot](./media/screenshot.png)
 
 ## 🎯 Project Goals
 * **Objective:** Practice color styling and layout.
