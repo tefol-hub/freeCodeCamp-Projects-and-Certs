@@ -5,7 +5,7 @@ A visually styled flyer webpage promoting an event.
 [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/event-flyer-page/)
 
 ## 📸 Preview
-![Project Screenshot](./screenshots/screenshot1.png)
+![Project Screenshot](./images/screenshot1.png)
 
 ## 🎯 Project Goals
 * **Objective:** Create an engaging event flyer layout.
