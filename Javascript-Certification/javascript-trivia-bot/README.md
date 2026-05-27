@@ -4,7 +4,7 @@
 [Lab Instructions](https://www.freecodecamp.org/learn/javascript-v9/lab-javascript-trivia-bot/lab-javascript-trivia-bot)
 
 ## 📸 Preview
-![Project Screenshot](./screenshots/screenshot.png)
+![Project Screenshot](./media/screenshot.png)
 
 ## 🎯 Project Goals
 * **Objective:** Learn basic JavaScript data tracking and string manipulation.
