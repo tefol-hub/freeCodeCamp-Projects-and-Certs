@@ -4,7 +4,7 @@
 [Lab Instructions](https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-house-painting/build-a-house-painting)
 
 ## 📸 Preview
-![Project Screenshot](./images/screenshot.png)
+![Project Screenshot](./media/screenshot.png)
 
 ## 🎯 Project Goals
 * **Objective:** Build a digital illustration using only HTML and CSS.
