@@ -96,19 +96,27 @@ div.code-toolbar svg {
 }
 
 @media screen and (max-width: 600px) {
+	body {
+		padding: 30px 8px;
+	}
+
+	pre {
+		font-size: 0.6rem;
+	}
+
 	div.code-toolbar > .toolbar { 
 		grid-template-columns: 80% 10% 10%;
 	}
 }
 
 @media screen and (max-width: 400px) {
-	pre {
+	/*pre {
 		overflow-x: visible;
-	}
+	}*/
 
-	pre code {
+	/*pre code {
 		white-space: pre-wrap !important;
-	}
+	}*/
 
 	div.code-toolbar > .toolbar { 
 		grid-template-columns: 70% 15% 15%;
