@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 const { execSync } = require("child_process");
 
-const BASE_URL = "https://tefol-hub.github.io/freeCodeCamp-Projects";
+const BASE_URL = "https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs";
 const ROOT = "/home/tefo/Documents/freeCodeCamp-Projects";
 
 function injectMeta(htmlPath) {
