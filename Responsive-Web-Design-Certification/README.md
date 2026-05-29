@@ -1,7 +1,7 @@
 # ⚙️ Responsive Web Design
 > 🎓 **Official freeCodeCamp Certification Link:** [Verify My Responsive Web Design Certificate](https://www.freecodecamp.org/certification/tefo-leche123/responsive-web-design-v9)
 #### 📸 Preview
-![Certification Screenshot](./screenshots/certification.png)
+![Certification Screenshot](./media/certification.png)
 
 ## 🧪 Modules & Practice Labs
 
