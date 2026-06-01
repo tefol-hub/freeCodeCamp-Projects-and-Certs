@@ -1,12 +1,24 @@
-fetch('script.js')
-  .then(response => response.text())
-  .then(data => {
-    const codeEl = document.getElementById('js-code');
-    codeEl.textContent = data;
-    Prism.highlightElement(codeEl);
+const githubUrl = document.querySelector('code[data-src]')?.getAttribute('data-src');
+const localUrl = './script.js';
+
+function highlight(code) {
+  const codeEl = document.getElementById('js-code');
+  codeEl.textContent = code;
+  Prism.highlightElement(codeEl);
+}
+
+fetch(githubUrl)
+  .then(response => {
+    if (!response.ok) throw new Error('GitHub fetch failed');
+    return response.text();
   })
-  .catch(error => {
-    console.error('Error loading the JS file:', error);
+  .then(data => highlight(data))
+  .catch(() => {
+    // Fall back to local script.js
+    fetch(localUrl)
+      .then(response => response.text())
+      .then(data => highlight(data))
+      .catch(error => console.error('Error loading script.js:', error));
   });
 
 Prism.plugins.toolbar.registerButton("lang-label", function (env) {
