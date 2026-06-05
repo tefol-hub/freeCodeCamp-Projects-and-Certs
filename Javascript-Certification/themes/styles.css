@@ -96,7 +96,7 @@ div.code-toolbar svg {
 
 @media screen and (max-width: 600px) {
 	body {
-		padding: 0;
+		padding: 10px;
 	}
 
 	pre {
