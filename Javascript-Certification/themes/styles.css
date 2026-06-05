@@ -11,7 +11,7 @@ html {
 }
 
 body {
-	padding: 30px 60px !important;
+	padding: 30px 60px;
 }
 
 h1 {
@@ -27,7 +27,6 @@ div.code-toolbar {
 	position: relative;
 	width: min(100%, 700px);
 	height: fit-content;
-	/* max-height: 800px; */
 	margin: 30px auto;
 }
 
