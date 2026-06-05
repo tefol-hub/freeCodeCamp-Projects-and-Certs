@@ -1,10 +1,10 @@
 # Sentence Maker
 
-[Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/JavaScript-Certification/sentence-maker/)
+[Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/sentence-maker/)
 [Lab Instructions](https://www.freecodecamp.org/learn/javascript-v9/lab-sentence-maker/build-a-sentence-maker)
 
 ## 📸 Preview
-![Project Screenshot](./screenshots/screenshot.png)
+![Project Screenshot](./media/screenshot.png)
 
 ## 🎯 Project Goals
 * **Objective:** Practice dynamic string generation and variable reassignability using JavaScript.
