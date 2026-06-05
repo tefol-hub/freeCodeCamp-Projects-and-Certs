@@ -27,7 +27,7 @@ div.code-toolbar {
 	position: relative;
 	width: min(100%, 700px);
 	height: fit-content;
-	max-height: 800px;
+	/* max-height: 800px; */
 	margin: 30px auto;
 }
 
