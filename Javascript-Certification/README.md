@@ -13,3 +13,4 @@
 
 * [Debug Type Coercion](../Javascript-Certification/debug-type-coercion) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/debug-type-coercion/) | A code debugging lab focused on resolving JavaScript's unique type coercion anomalies and establishing strong data typing rules.
 * [Debug Increment Decrement](./Javascript-Certification/debug-increment-decrement) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/debug-increment-decrement/) | An analytical code debugging module breaking down execution timing differences between Prefix and Postfix operators.
+* [Fortune Teller](./JavaScript-Certification/fortune-teller) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/fortune-teller/) | A randomized script application using mathematical flooring logic and nested evaluation paths to issue fortune predictions.
