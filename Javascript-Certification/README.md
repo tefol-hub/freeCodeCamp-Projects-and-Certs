@@ -19,3 +19,4 @@
 > 📖 **Study & Revision Resource:** [Functions Review Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-functions/review-javascript-functions)
 
 * [Boolean Check Function](./Javascript-Certification/boolean-check) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/boolean-check/) | An explicit identification utility script deploying arrow notation syntax and strict evaluation rules to distinguish boolean primitives.
+* [Email Masker](./Javascript-Certification/email-masker) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/email-masker/) | A string engineering data-privacy application utilizing substring slicing, array matching, and sequential padding to mask explicit email usernames.
