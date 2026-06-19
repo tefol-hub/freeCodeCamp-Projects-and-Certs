@@ -14,7 +14,7 @@
 * [Debug Type Coercion](../Javascript-Certification/debug-type-coercion) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/debug-type-coercion/) | A code debugging lab focused on resolving JavaScript's unique type coercion anomalies and establishing strong data typing rules.
 * [Debug Increment Decrement](./Javascript-Certification/debug-increment-decrement) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/debug-increment-decrement/) | An analytical code debugging module breaking down execution timing differences between Prefix and Postfix operators.
 * [Fortune Teller](./Javascript-Certification/fortune-teller) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/fortune-teller/) | A randomized script application using mathematical flooring logic and nested evaluation paths to issue fortune predictions.
-
+* [Celsius to Fahrenheit Converter](./Javascript-Certification/celsius-to-fahrenheit) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/celsius-to-fahrenheit/) | A mathematical formula conversion function featuring robust type-validation filtering against non-finite or corrupt arguments.
 ### 🛠️  Functions
 > 📖 **Study & Revision Resource:** [Functions Review Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-functions/review-javascript-functions)
 
