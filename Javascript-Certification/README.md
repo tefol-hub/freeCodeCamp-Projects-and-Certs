@@ -25,3 +25,8 @@
 * [Leap Year Calculator](./Javascript-Certification/leap-year-calculator) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/leap-year-calculator/) | An algorithmic calendar calculator deploying cascading evaluation paths to compute leap year rules based on reverse priority limits.
 * [Truncate a String Algorithm](./Javascript-Certification/truncate-string) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/truncate-string/) | A conditional text-shortening algorithm that safely parses textual parameters and crops length states according to specific limits.
 * [Confirm the Ending Tool](./Javascript-Certification/string-ending-checker) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/string-ending-checker/) | A validation algorithm executing dynamic negative string index operations to evaluate trailing target endings.
+
+### 📦 Arrays
+> 📖 **Study & Revision Resource:** [Arrays Review Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-arrays/review-javascript-arrays)
+
+* [Lunch Picker Program](./Javascript-Certification/lunch-picker) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/lunch-picker/) | A complete menu management dashboard application demonstrating array queue/stack modifications, random item calculation selection, and custom parameter exception safety checking.
