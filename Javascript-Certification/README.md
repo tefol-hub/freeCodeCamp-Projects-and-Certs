@@ -30,3 +30,4 @@
 > 📖 **Study & Revision Resource:** [Arrays Review Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-arrays/review-javascript-arrays)
 
 * [Lunch Picker Program](./Javascript-Certification/lunch-picker) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/lunch-picker/) | A complete menu management dashboard application demonstrating array queue/stack modifications, random item calculation selection, and custom parameter exception safety checking.
+* [Golf Score Translator](./Javascript-Certification/golf-score-translator) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/golf-score-translator/) | A dynamic lookup engine leveraging ES6 array destructuring and nested evaluation sequences to map numeric scoring differentials to classic golf terms.
