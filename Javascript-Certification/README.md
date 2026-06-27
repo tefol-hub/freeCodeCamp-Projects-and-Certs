@@ -41,3 +41,4 @@
 > 📖 **Study & Revision Resource:** [Objects Review Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-objects/review-javascript-objects)
 
 * [Cargo Manifest Validator](./Javascript-Certification/cargo-manifest-validator) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/cargo-manifest-validator/) | A data auditing application demonstrating property lookups, non-mutating copy operations, and multi-tier structural type-validation rules on objects.
+* [Quiz Game](./Javascript-Certification/quiz-game) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/quiz-game/) | An automated trivia utility parsing deeply nested array/object configurations to execute modular, randomized question evaluation workflows.
