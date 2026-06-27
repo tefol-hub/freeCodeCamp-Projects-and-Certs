@@ -31,3 +31,13 @@
 
 * [Lunch Picker Program](./Javascript-Certification/lunch-picker) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/lunch-picker/) | A complete menu management dashboard application demonstrating array queue/stack modifications, random item calculation selection, and custom parameter exception safety checking.
 * [Golf Score Translator](./Javascript-Certification/golf-score-translator) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/golf-score-translator/) | A dynamic lookup engine leveraging ES6 array destructuring and nested evaluation sequences to map numeric scoring differentials to classic golf terms.
+
+# Cargo Manifest Validator
+
+[Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/cargo-manifest-validator/)
+[Lab Instructions](https://www.freecodecamp.org/learn/javascript-v9/lab-cargo-manifest-validator/lab-cargo-manifest-validator)
+
+### 🗃️ Objects
+> 📖 **Study & Revision Resource:** [Objects Review Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-objects/review-javascript-objects)
+
+* [Cargo Manifest Validator](./Javascript-Certification/cargo-manifest-validator) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/cargo-manifest-validator/) | A data auditing application demonstrating property lookups, non-mutating copy operations, and multi-tier structural type-validation rules on objects.
