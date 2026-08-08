@@ -43,3 +43,8 @@
 * [Cargo Manifest Validator](./Javascript-Certification/cargo-manifest-validator) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/cargo-manifest-validator/) | A data auditing application demonstrating property lookups, non-mutating copy operations, and multi-tier structural type-validation rules on objects.
 * [Quiz Game](./Javascript-Certification/quiz-game) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/quiz-game/) | An automated trivia utility parsing deeply nested array/object configurations to execute modular, randomized question evaluation workflows.
 * [Record Collection Assistant](./Javascript-Certification/record-collection) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/record-collection/) | A comprehensive object tree management module manipulating complex, deeply nested metadata arrays using structural validation lookup keys and conditional deletion handlers.
+
+### 🔄 Loops
+> 📖 **Study & Revision Resource:** [Loops Review Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-loops/review-javascript-loops)
+
+* [Traffic Light Sequencer](./Javascript-Certification/traffic-light-sequencer) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/traffic-light-sequencer/) | A state-tracking simulation using loop control flow statements, labeled breaks, and cumulative calculations to process light cycles and log system faults.
