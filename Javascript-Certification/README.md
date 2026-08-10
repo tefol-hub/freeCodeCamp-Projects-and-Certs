@@ -48,3 +48,4 @@
 > 📖 **Study & Revision Resource:** [Loops Review Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-loops/review-javascript-loops)
 
 * [Traffic Light Sequencer](./Javascript-Certification/traffic-light-sequencer) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/traffic-light-sequencer/) | A state-tracking simulation using loop control flow statements, labeled breaks, and cumulative calculations to process light cycles and log system faults.
+* [Longest Word Finder](./Javascript-Certification/longest-word-finder) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/longest-word-finder/) | An algorithmic text-parsing utility iterating through tokenized string arrays using indexed `for` loops to track maximum word length metrics.
