@@ -21,3 +21,13 @@
 1. Navigate to: `cd Javascript-Certification/missing-letter-detector`
 2. Open `index.html` in your browser.
 3. Access your **Developer Console (F12)** to test custom letter ranges with missing character gaps.
+
+
+## Possible Improvements
+Instead of validating if the input is in alphabetic order I could rather sort the input. 
+Furthermore instead of comparing consecutive indices of the input I would rather compare their ASCII character codes like so:
+for (let i = 0; i < str.length - 1; i++) {
+  if (str.charCodeAt(i + 1) - str.charCodeAt(i) > 1) {
+    return String.fromCharCode(str.charCodeAt(i) + 1);
+  }
+}   
