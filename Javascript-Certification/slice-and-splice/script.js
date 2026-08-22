@@ -14,9 +14,12 @@ function frankenSplice(arr1, arr2, index) {
     throw new Error("The 3rd argument 'index' should not be larger than the length of the 2st argument 'arr2'!");
   }
 
-  const newArr = [...arr2];
-  newArr.splice(index, 0, ...arr1)
-  
+  const newArr = [
+    ...arr2.slice(0, index), 
+    ...arr1, 
+    ...arr2.slice(index)
+  ]
+
   return newArr;
 }
 
@@ -26,4 +29,3 @@ console.log(frankenSplice(["claw", "tentacle"], ["head", "shoulders", "knees", "
 // [ 'head', 'shoulders', 'claw', 'tentacle', 'knees', 'toes' ]
 console.log(frankenSplice([1, 2, 3, 4], [], 0));
 // [ 1, 2, 3, 4 ]
-
