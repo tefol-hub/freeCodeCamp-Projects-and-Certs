@@ -62,3 +62,4 @@
 > 📖 **Study & Revision Resource:** [JavaScript Fundamentals Review Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-fundamentals/review-javascript-fundamentals)
 
 * [String Inverter](./Javascript-Certification/string-inverter) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/string-inverter/) | A string manipulation utility reversing character sequences via standard `.split()`, `.reverse()`, and `.join()` method chaining.
+* [Largest Number Finder](./Javascript-Certification/largest-number-finder) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/largest-number-finder/) | A matrix parsing utility iterating through two-dimensional numeric arrays with nested loops and `-Infinity` bound trackers to extract peak row values.
