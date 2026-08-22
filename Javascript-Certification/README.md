@@ -57,3 +57,8 @@
 * [Missing Letter Detector](./Javascript-Certification/missing-letter-detector) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/missing-letter-detector/) | An algorithmic character range validator slicing reference alphabet sequences and auditing expected position gaps.
 * [Smart Pantry Restocker](./Javascript-Certification/smart-pantry-restocker) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/smart-pantry-restocker/) | An end-to-end inventory management system parsing pipe-delimited raw shipment logs, deep cloning pantry data, planning restock/donate/discard actions, and grouping records by storage zones.
 * [Proofreading Tool](./Javascript-Certification/proofreading-tool) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/proofreading-tool/) | A text analysis engine combining sliding window n-gram extraction, nested loop index comparisons, and string reversal checks to isolate duplicate phrase patterns and non-palindromic words.
+
+### 🔤 JavaScript Fundamentals Review
+> 📖 **Study & Revision Resource:** [JavaScript Fundamentals Review Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-fundamentals/review-javascript-fundamentals)
+
+* [String Inverter](./Javascript-Certification/string-inverter) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/string-inverter/) | A string manipulation utility reversing character sequences via standard `.split()`, `.reverse()`, and `.join()` method chaining.
