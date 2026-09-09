@@ -79,3 +79,8 @@
 * [Odd Fibonacci Sum Calculator](./Javascript-Certification/odd-fibonacci-sum-calculator) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/odd-fibonacci-sum-calculator/) | A numeric sequence utility generating Fibonacci numbers up to a specified limit and summing odd terms.
 * [Element Skipper](./Javascript-Certification/element-skipper) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/element-skipper/) | An array parsing utility discarding leading elements until a predicate callback evaluates to true.
 * [Playlist Remix Engine](./Javascript-Certification/playlist-remix-engine) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/playlist-remix-engine/) | A modular track processing engine flattening, scoring, deduplicating, filtering, and scheduling broadcast-ready playlists.
+
+### 🧩 Higher Order Functions and Callbacks
+> 📖 **Study & Revision Resource:** [Higher Order Functions and Callbacks Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-higher-order-functions/review-javascript-higher-order-functions)
+
+* [Book Organizer](./Javascript-Certification/book-organizer) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/book-organizer/) | A catalog sorting utility filtering collections with `.filter()` and ordering items chronologically via custom comparator callbacks.
