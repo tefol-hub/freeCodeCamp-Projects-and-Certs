@@ -84,3 +84,4 @@
 > 📖 **Study & Revision Resource:** [Higher Order Functions and Callbacks Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-higher-order-functions/review-javascript-higher-order-functions)
 
 * [Book Organizer](./Javascript-Certification/book-organizer) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/book-organizer/) | A catalog sorting utility filtering collections with `.filter()` and ordering items chronologically via custom comparator callbacks.
+* [Sorted Index Finder](./Javascript-Certification/sorted-index-finder) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/sorted-index-finder/) | An array index calculation utility determining insertion points for numeric targets using higher-order `.sort()` and `.findIndex()` calls.
