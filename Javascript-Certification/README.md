@@ -91,3 +91,8 @@
 * [Range-Based LCM Calculator](./Javascript-Certification/range-based-lcm-calculator) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/range-based-lcm-calculator/) | A mathematical range engine calculating the least common multiple across inclusive integer bounds using `.every()`.
 * [Deep Flattening Tool](./Javascript-Certification/deep-flattening-tool) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/deep-flattening-tool/) | A recursive array steamroller unwrapping arbitrarily nested arrays into a single-dimensional structure using `.forEach()`.
 * [All-True Property Validator](./Javascript-Certification/all-true-property-validator) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/all-true-property-validator/) | A collection audit utility testing property truthiness across object arrays using `.every()` and `Object.hasOwn()`.
+
+### 🌐 DOM Manipulation and Events
+> 📖 **Study & Revision Resource:** [DOM Manipulation and Click Events Summary](https://www.freecodecamp.org/learn/javascript-v9/review-dom-manipulation-and-click-events-with-javascript/review-dom-manipulation-and-click-events-with-javascript)
+
+* [Favorite Icon Toggler](./Javascript-Certification/favorite-icon-toggler) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/favorite-icon-toggler/) | An interactive list utility toggling heart icon states dynamically via `.classList.toggle()` and `click` event listeners.

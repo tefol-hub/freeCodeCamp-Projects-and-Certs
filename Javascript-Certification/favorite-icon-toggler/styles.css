@@ -1,0 +1,80 @@
+:root {
+  --ts-blue: #3178C6;
+  --py-blue: #4B8BBE;
+  --py-yellow: #FFD43B;
+  --rs-brown: #8B3103;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(
+    to top right, 
+    var(--ts-blue), 
+    var(--py-blue), 
+    var(--py-yellow), 
+    var(--rs-brown)
+  );
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  font-family: Tahoma, sans-serif;
+  font-size: 16px;
+}
+
+main {
+  margin: auto;
+  padding: 20px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0px 0px 8px 5px rgba(132, 124, 83, 0.279);
+}
+
+h1 {
+  font-size: 2.3rem;
+  text-align: center;
+}
+
+ul.item-list {
+  width: 80%;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: 1.5rem;
+}
+
+ul.item-list li {
+  margin-bottom: 20px;
+  margin-left: -40px;
+  padding: 15px 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+button, .filled {
+  background-color: transparent;
+  border-radius: 5px;
+  border: 1px solid transparent;
+  box-shadow: 0px 0px 8px 5px rgba(132, 124, 83, 0.279);
+  font-size: 1.7rem;
+  cursor: pointer;
+}
+
+.filled {
+  color: var(--rs-brown);
+}
+
+@media screen and (max-width: 400px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  ul.item-list {
+    font-size: 1.5rem;
+  }
+}
