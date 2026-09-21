@@ -96,3 +96,4 @@
 > 📖 **Study & Revision Resource:** [DOM Manipulation and Click Events Summary](https://www.freecodecamp.org/learn/javascript-v9/review-dom-manipulation-and-click-events-with-javascript/review-dom-manipulation-and-click-events-with-javascript)
 
 * [Favorite Icon Toggler](./Javascript-Certification/favorite-icon-toggler) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/favorite-icon-toggler/) | An interactive list utility toggling heart icon states dynamically via `.classList.toggle()` and `click` event listeners.
+* [Real Time Counter](./Javascript-Certification/real-time-counter) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/real-time-counter/) | A dynamic character counter limiting textarea input lengths and updating DOM states in real time using `input` event listeners.
