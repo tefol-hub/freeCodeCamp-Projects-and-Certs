@@ -97,3 +97,4 @@
 
 * [Favorite Icon Toggler](./Javascript-Certification/favorite-icon-toggler) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/favorite-icon-toggler/) | An interactive list utility toggling heart icon states dynamically via `.classList.toggle()` and `click` event listeners.
 * [Real Time Counter](./Javascript-Certification/real-time-counter) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/real-time-counter/) | A dynamic character counter limiting textarea input lengths and updating DOM states in real time using `input` event listeners.
+* [Lightbox Viewer](./Javascript-Certification/lightbox-viewer) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/lightbox-viewer/) | An image gallery modal overlay rendering high-res images dynamically from thumbnail source URLs upon `click` interaction.
