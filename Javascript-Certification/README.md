@@ -99,3 +99,8 @@
 * [Real Time Counter](./Javascript-Certification/real-time-counter) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/real-time-counter/) | A dynamic character counter limiting textarea input lengths and updating DOM states in real time using `input` event listeners.
 * [Lightbox Viewer](./Javascript-Certification/lightbox-viewer) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/lightbox-viewer/) | An image gallery modal overlay rendering high-res images dynamically from thumbnail source URLs upon `click` interaction.
 * [Football Team Cards](./Javascript-Certification/football-team-cards) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/football-team-cards/) | A dynamic roster filter card application utilizing JavaScript object arrays, `.filter()`, `.map()`, and `change` event listeners.
+
+### ♿ JavaScript and Accessibility
+> 📖 **Study & Revision Resource:** [JavaScript and Accessibility Summary](https://www.freecodecamp.org/learn/javascript-v9/review-js-a11y/review-js-a11y)
+
+* [Theme Switcher](./Javascript-Certification/theme-switcher) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/theme-switcher/) | An accessible theme selection component leveraging ARIA menu roles, dynamic `aria-expanded` state toggles, and screen reader announcements via `aria-live="polite"`.
