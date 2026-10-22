@@ -104,3 +104,8 @@
 > 📖 **Study & Revision Resource:** [JavaScript and Accessibility Summary](https://www.freecodecamp.org/learn/javascript-v9/review-js-a11y/review-js-a11y)
 
 * [Theme Switcher](./Javascript-Certification/theme-switcher) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/theme-switcher/) | An accessible theme selection component leveraging ARIA menu roles, dynamic `aria-expanded` state toggles, and screen reader announcements via `aria-live="polite"`.
+
+### 🐞 Debugging
+> 📖 **Study & Revision Resource:** [Debugging JavaScript Summary](https://www.freecodecamp.org/learn/javascript-v9/review-debugging-javascript/review-debugging-javascript)
+
+* [Random Background Color Changer](./Javascript-Certification/random-background-color-changer) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/random-background-color-changer/) | A debugged color-shifting application fixing DOM target selections, JavaScript `Math` object case errors, and event listener function references.
