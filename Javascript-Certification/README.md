@@ -109,3 +109,8 @@
 > 📖 **Study & Revision Resource:** [Debugging JavaScript Summary](https://www.freecodecamp.org/learn/javascript-v9/review-debugging-javascript/review-debugging-javascript)
 
 * [Random Background Color Changer](./Javascript-Certification/random-background-color-changer) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/random-background-color-changer/) | A debugged color-shifting application fixing DOM target selections, JavaScript `Math` object case errors, and event listener function references.
+
+### 🔍 Basic Regex
+> 📖 **Study & Revision Resource:** [JavaScript Regular Expressions Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-regular-expressions/review-javascript-regular-expressions)
+
+* [Palindrome Checker](./Javascript-Certification/palindrome-checker) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/palindrome-checker/) | An interactive string validation tool sanitizing non-alphanumeric characters via regular expressions (`/[^a-zA-Z0-9]/g`) to detect palindromes.

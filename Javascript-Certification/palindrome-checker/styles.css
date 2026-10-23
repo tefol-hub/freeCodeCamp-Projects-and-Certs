@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* border: 1px yellow solid; */
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  background-color: #48304D;
+}
+
+#header {
+  padding: 10px;
+  font-family: 'Brush Script MT', cursive;
+}
+
+main {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  margin: 100px auto;
+  max-width: 600px;
+  gap: 20px;
+  width: 100%;
+  padding: 20px
+}
+
+#main-div {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 25px;
+  width: 100%;
+  background-color: #D1AFCC;
+  overflow: hidden;
+  border-radius: 20px;
+  padding: 15px;
+  font-size: 1.5rem;
+}
+
+label {
+  font-size: 1rem;
+}
+
+#checker {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+#text-input {
+  flex: 1;
+  padding: 10px;
+  font-size: 1.4rem;
+  border-radius: 10px;
+  margin-right: 10px;
+  box-sizing: border-box;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid black;
+  outline: none;
+  transition: border-color 0.3s ease;
+}
+
+#text-input:focus {
+  border-top: 2px solid #6F5578;
+  border-left: 2px solid #6F5578;
+  border-right: 2px solid #6F5578;
+  border-bottom: 2px solid #6F5578;
+}
+
+
+#check-btn {
+  padding: 10px;
+  border-radius: 40px;
+  box-sizing: border-box;
+  font-size: 1.4rem;
+  font-weight: bold;
+  background-color: #D025B3;
+}
+
+#result {
+  padding-bottom: 10px;
+  display: none;
+}
+
+#palindrome-def {
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4rem;
+    color: #d3d3d3;
+    box-sizing: border-box;
+    overflow: hidden;
+    font-weight: bold;
+    background-color: #16271f;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+footer {
+  padding: 10px 0;
+}
+
+@media (max-width: 600px) {
+  #checker {
+    flex-direction: column; /* Stack elements vertically */
+  }
+
+  #text-input {
+    margin-right: 0; /* Remove right margin */
+    margin-bottom: 10px; /* Add space below input */
+    width: 100%; /* Make input fill the width of parent */
+  }
+
+  #check-btn {
+    width: 40%; /* Make button fill the width of parent */
+    min-width: 100px;
+  }
+}
