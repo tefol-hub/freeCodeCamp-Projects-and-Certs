@@ -114,3 +114,4 @@
 > 📖 **Study & Revision Resource:** [JavaScript Regular Expressions Summary](https://www.freecodecamp.org/learn/javascript-v9/review-javascript-regular-expressions/review-javascript-regular-expressions)
 
 * [Palindrome Checker](./Javascript-Certification/palindrome-checker) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/palindrome-checker/) | An interactive string validation tool sanitizing non-alphanumeric characters via regular expressions (`/[^a-zA-Z0-9]/g`) to detect palindromes.
+* [RegEx Sandbox](./Javascript-Certification/regex-sandbox) - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/regex-sandbox/) | An interactive regular expression pattern tester dynamically highlighting matches and reporting results using runtime `RegExp` objects.
