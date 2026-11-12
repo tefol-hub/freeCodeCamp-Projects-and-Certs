@@ -20,7 +20,7 @@ These projects focus on CSS Flexbox, Grid, Typography, and Responsive Design pri
 * **[Product Landing Page](./Responsive-Web-Design-Certification/product-landing-page)** - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Responsive-Web-Design-Certification/product-landing-page/) | Demonstrates the ability to design and structure a modern marketing landing page using semantic HTML, responsive CSS, and UI layout techniques.
 
 ### 2. Javascript
-Coming soon...
+* **[Markdown to HTML Converter](./Javascript-Certification/markdown-to-html-converter)** - [Live Demo](https://tefol-hub.github.io/freeCodeCamp-Projects-and-Certs/Javascript-Certification/markdown-to-html-converter/) | A real-time parser converting basic Markdown syntax into HTML output and rendered previews using regular expressions.
 
 ---
 
